@@ -20,7 +20,7 @@ Full-stack appointment management application with JWT authentication, built wit
 - CORS enabled for localhost:3000
 
 **Frontend:**
-- Next.js 14 (App Router)
+- Next.js 16 (App Router)
 - TypeScript
 - React Context API for state management
 - Tailwind CSS for styling
