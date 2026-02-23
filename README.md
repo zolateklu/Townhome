@@ -164,11 +164,6 @@ npm run build
 npm start
 ```
 
-## Documentation
-
-- **Frontend Code Explanation:** See `frontend/FRONTEND_EXPLAINED.md`
-- **TypeScript Guide:** See `frontend/TYPESCRIPT_GUIDE.md`
-
 ## License
 
 MIT
